@@ -115,7 +115,8 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 ---
 
 ## 💌 Emailing Professors
-
+You can find Professors who will take new students from this group- https://www.facebook.com/groups/nextop.usa
+You can also create your LinkedIn profile and be connected with many academic people, this you will also see post where professor are looking for students. This will save a lot of your time.
 ### How to Write an Effective Email
 - Subject line
 - Content
