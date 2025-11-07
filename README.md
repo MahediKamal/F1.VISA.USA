@@ -71,22 +71,35 @@
 ---
 
 ## 🧭 Introduction
-Short overview of your journey and motivation for pursuing a PhD in the USA.  
-Mention how this blog aims to help future students by sharing every document and experience.
+  This blog aims to help future students by sharing every document and experience.
 
 ---
+## Research
+Before everything, while you are doing your bachelor's, try to do some research work. It will be very helpful. [for PhD and MS]
 
 ## 📊 Standardized Tests
 
 ### GRE
-- Why I took it  
-- Preparation timeline and resources  
-- My scores and experience  
+- Though the GRE is not mandatory for most of the programs, it is always a plus to have. If you are going for an Engineering or related field, then the Quant section of the GRE will be very helpful. Try to keep the Quant score at least 160 if you are going to an engineering-related subject.
 
 ### TOEFL / IELTS
-- Why English proficiency is required  
-- Comparison of TOEFL vs IELTS  
-- Preparation and test-day experience  
+- You must have these tests ready for applying to the university [Exception is not an example]. You should try to keep a minimum TOEFL score of 190 or a minimum IELTS score of 6.5. There are some other English tests, but it is recommended to take TOEFL or IELTS.
+
+---
+
+## ✍️ Application Documents
+Now it is time to make some documents ready to apply centrally, and also to email the professor.
+### Statement of Purpose (SOP)
+- It should be within 2 pages   
+- [📄 View My SOP Example](#my-sop-sample)
+
+### Letters of Recommendation (LOR)
+- Try to take LOR from the Professor with whom you have worked and have at least 1 collaborative paper work    
+- [📄 LOR Example](#my-lor-sample)
+
+### Resume/CV
+- Format and key points for PhD application
+- [📄 View My CV Example](#my-CV-sample)
 
 ---
 
@@ -98,23 +111,6 @@ Mention how this blog aims to help future students by sharing every document and
 
 ### Comparing CS vs CE Admission Difficulty
 - My research and insights  
-
----
-
-## ✍️ Application Documents
-
-### Statement of Purpose (SOP)
-- Structure and flow  
-- My personal writing approach  
-- [📄 View My SOP Example](#my-sop-sample)
-
-### Letters of Recommendation (LOR)
-- Who I asked  
-- How I helped them write strong letters  
-- [📄 LOR Template](#my-lor-template)
-
-### Resume/CV
-- Format and key points for PhD application  
 
 ---
 
