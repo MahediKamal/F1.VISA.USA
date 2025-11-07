@@ -103,5 +103,141 @@ Mention how this blog aims to help future students by sharing every document and
 
 ## ✍️ Application Documents
 
-###
+### Statement of Purpose (SOP)
+- Structure and flow  
+- My personal writing approach  
+- [📄 View My SOP Example](#my-sop-sample)
+
+### Letters of Recommendation (LOR)
+- Who I asked  
+- How I helped them write strong letters  
+- [📄 LOR Template](#my-lor-template)
+
+### Resume/CV
+- Format and key points for PhD application  
+
+---
+
+## 💌 Emailing Professors
+
+### How to Write an Effective Email
+- Subject line
+- Content
+- Signature  
+
+### Sample Emails I Sent
+- [📄 Sample 1 – Research Inquiry](#)
+- [📄 Sample 2 – Follow-up Email](#)
+
+### Common Mistakes
+- What not to do when emailing professors  
+
+---
+
+## 🎓 Getting Admission Offers
+
+### RA / TA / Fellowship Funding
+- How funding works
+- My experience getting RA  
+
+### How I Evaluated Offers
+- Factors I considered before final decision  
+
+---
+
+## 💰 I-20 and Financial Documents
+
+### Understanding the I-20
+- Breakdown of sections  
+
+### Showing Bank/Sponsor Funds
+- What documents I used  
+
+### Common I-20 Issues and Fixes
+- How I solved deficit problems  
+
+---
+
+## 🧾 Visa Process
+
+### Filling DS-160 Form
+- Step-by-step  
+- Common errors  
+
+### SEVIS Fee Payment
+- Payment process  
+
+### Scheduling VAC and Embassy Appointments
+- Timeline for Bangladesh  
+- Tips for smooth scheduling  
+
+### Required Visa Documents
+- Full checklist  
+
+---
+
+## 💬 Visa Interview Preparation
+
+### My Visa Interview Experience
+- Actual Q&A from my interview  
+
+### Common Questions & My Answers
+- Top 10 questions for PhD students  
+
+### Mock Interview Practice
+- How I practiced  
+
+---
+
+## ✈️ After Visa Approval
+
+### Buying Air Ticket
+- Best time and sites to buy  
+
+### Booking First Accommodation
+- On-campus vs off-campus  
+
+### Pre-Departure Checklist
+- Documents, vaccines, money, adapters, etc.  
+
+---
+
+## 🛬 Arriving in the USA
+
+### Immigration at Port of Entry
+- My experience and tips  
+
+### First Week in the USA
+- Orientation, SSN, bank account, etc.  
+
+---
+
+## 📂 Documents and Samples
+
+- [My SOP (Sample)](#my-sop-sample)  
+- [My LOR Template](#my-lor-template)  
+- [Professor Email Examples](#email-templates)  
+- [Visa Interview Document](#visa-interview-sheet)  
+- [Packing List](#packing-list)  
+
+---
+
+## 💡 Tips and Lessons Learned
+Key advice for new applicants, mistakes to avoid, and mindset tips.
+
+---
+
+## 🙏 Acknowledgments
+Thank people, professors, or friends who guided you.
+
+---
+
+## 📧 Contact
+If you have questions, feel free to reach out:  
+`[your_email_here]`
+
+---
+
+> *“Dream big. Prepare well. Stay confident.”* – Mahedi Kamal
+
 
