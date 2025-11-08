@@ -189,31 +189,45 @@ You can also create your LinkedIn profile and be connected with many academic pe
 - DS160 CONFIRMATION
 - Bank Statement
 - Solvecy Certificate
-- CV UAlbany Spring26
+- CV
 - Email to Professor that got me the RA
 - I901 Payment Confirmation
 - Previous Visa History (if any)
 - Other University admission letter
-- Social Media Link (As there was a socilal media verification going on, I write all the link on a doc, and give to the visa officer)
+- Social Media Link [Pdf](https://github.com/MahediKamal/F1.VISA.USA/blob/fab96ab5b31653650f7a920e1875a8b030850b96/Visa%20Interview/Social%20Media%20ID.pdf) (As there was a social media verification going on, I wrote all the links on a doc, and gave it to the visa officer)
 - SOP
 - TOEFL
 - GRE
 - Office ID
 - Salary Certificate
 
-During my Visa interview only my  I-20 and Passport was checked, but it is better to kepp all the documents with you
+During my Visa interview, only my  I-20 and Passport were checked, but it is better to keep all the documents with you
 ---
 
 ## 💬 Visa Interview Preparation
 
 ### My Visa Interview Experience
-- Actual Q&A from my interview  
+- Me: Afternoon, officer.
+- VO: You look like 15 (laugh)
+- Me: No, I am 25 (laugh)
+- VO: What is your university name?
+- Me: answered
+- VO: What is your research topic?
+- Me: answered
+- VO: How many papers do you have?
+- answered
+- VO: Where are those published?
+- answered
+- VO: Who will bear te cost?
+- answered
+- VO: Congratulations, I am approving your visa. But this will go under social media screening.
+- Me: replied
 
-### Common Questions & My Answers
-- Top 10 questions for PhD students  
+#### [Common Questions & My Answers](https://github.com/MahediKamal/F1.VISA.USA/blob/fab96ab5b31653650f7a920e1875a8b030850b96/Visa%20Interview/USA%20VISA%20INTERVIEW%20QS.pdf)
+   
 
 ### Mock Interview Practice
-- How I practiced  
+- You can try this group: https://t.me/+YRGbT9FYy5swMTE1 
 
 ---
 
