@@ -195,8 +195,28 @@ You can also create your LinkedIn profile and be connected with many academic pe
 - I got a visa date within 3 weeks using this group. 
 
 ### Required Visa Documents
-- Full checklist  
+- I-20 
+- Passport
+- NID
+- Admission Letter
+- Funding Offer
+- VISA  Appointment Confirmation
+- DS160 CONFIRMATION
+- Bank Statement
+- Solvecy Certificate
+- CV UAlbany Spring26
+- Email to Professor that got me the RA
+- I901 Payment Confirmation
+- Previous Visa History (if any)
+- Other University admission letter
+- Social Media Link (As there was a socilal media verification going on, I write all the link on a doc, and give to the visa officer)
+- SOP
+- TOEFL
+- GRE
+- Office ID
+- Salary Certificate
 
+During my Visa interview only my  I-20 and Passport was checked, but it is better to kepp all the documents with you
 ---
 
 ## 💬 Visa Interview Preparation
