@@ -1,19 +1,4 @@
-# F1.VISA.USA
-
-#first make your documents ready (LOR, SOP, Transcript, GRE, TOEFL)
-
-#two ways to start your application, and you should do both in parallel
-#Email professors those with open positions and looking for students. Use LinkedIn, Facebook groups, and other social media to get information about professors who are looking for students.
-#Apply centrally to the university. I have a list of universities that will help you find the best-fit university for you.
-
-#After you get admission and funding, get a USA visa interview date. Details below
-
-#take vaccine
-
-#buy plane ticket
-
-
-# 🇺🇸 Getting a USA F1 Visa – My Complete Journey
+# Getting a USA F1 Visa – My Complete Journey
 
 *A complete guide from GRE to Boarding the Flight*
 
@@ -278,7 +263,7 @@ Thank people, professors, or friends who guided you.
 
 ## 📧 Contact
 If you have questions, feel free to reach out:  
-`[your_email_here]`
+`[mahedikamal44@gmail.com]`
 
 ---
 
