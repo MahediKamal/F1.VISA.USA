@@ -131,8 +131,8 @@ You can also create your LinkedIn profile and be connected with many academic pe
 - Read some of the professor’s papers from Google Scholar. You can use https://notebooklm.google/ to summarize and understand them easily. This tool really helped me grasp research papers and write emails with much less effort.
 
 ### Sample Emails I Sent
-- [📄 Sample 1 – Research Inquiry](#)
-- [📄 Sample 2 – Follow-up Email](#)
+- [📄 Sample 1 – Already have admission](https://github.com/MahediKamal/F1.VISA.USA/blob/09e8fd344616179ea6e70e23a105457f8bb59b96/Email/Email%201.pdf)
+- [📄 Sample 2 – No admission](https://github.com/MahediKamal/F1.VISA.USA/blob/09e8fd344616179ea6e70e23a105457f8bb59b96/Email/Email%202.pdf)
 
 ### Tips
 - If you have a professional or paid email address that includes your real name, use that. For example, I used my work email when I was employed as a software engineer.
