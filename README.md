@@ -85,11 +85,20 @@ Before everything, while you are doing your bachelor's, try to do some research 
 - [The Official Guide to the GRE 3rd Edt](https://github.com/MahediKamal/F1.VISA.USA/blob/e613a063ab576c5c8f6d6f2a12d0c43b70f64d05/GRE%20doc/01%20ETS%20-%20The%20Official%20Guide%20to%20the%20GRE%203rd%20Edt.pdf)
 - [Official GRE Verbal Reasoning Practice Questions](https://github.com/MahediKamal/F1.VISA.USA/blob/f348ffd526bce785f6555fc83dbf7ca8f5754e03/GRE%20doc/02%20Official%20GRE%20Verbal%20Reasoning%20Practice%20Questions.pdf)
 - [Official GRE Quantitative](https://github.com/MahediKamal/F1.VISA.USA/blob/f348ffd526bce785f6555fc83dbf7ca8f5754e03/GRE%20doc/03%20Official%20GRE%20Quantitative.pdf)
-- [5 lb. Book of GRE Practice Problems - Manhattan Prep](https://github.com/MahediKamal/F1.VISA.USA/blob/f348ffd526bce785f6555fc83dbf7ca8f5754e03/GRE%20doc/04%205%20lb.%20Book%20of%20GRE%20Practice%20Problems%20-%20Manhattan%20Prep%20.pdf)
+- [5 lb. Book of GRE Practice Problems - Manhattan Prep](https://github.com/MahediKamal/F1.VISA.USA/blob/f348ffd526bce785f6555fc83dbf7ca8f5754e03/GRE%20doc/04%205%20lb.%20Book%20of%20GRE%20Practice%20Problems%20-%20Manhattan%20Prep%20.pdf) [For the Quant section, this book is all you need in my opinion]
+- [AWA (Issue Practice)](https://minhaskamal.github.io/GRExercise/#/awa?type=issue) [Official question]
+- [AWA (Argument Practice](https://minhaskamal.github.io/GRExercise/#/awa?type=argument) [Official question]
+- [Calculator](https://minhaskamal.github.io/GRExercise/#/calculator) [Practice this calculator because you will be given one like this in the exam]
+- [Vocab](https://minhaskamal.github.io/GRExercise/#/vocab)
 
 ### TOEFL / IELTS
 - You must have these tests ready for applying to the university [Exception is not an example]. You should try to keep a minimum TOEFL score of 190 or a minimum IELTS score of 6.5. There are some other English tests, but it is recommended to take TOEFL or IELTS.
-
+#### TOEFL Preparation
+- [Academic discussion](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/TOEFL%20Academic%20discussion.pdf) [Officail question from ETS]
+- [Toefl speaking](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/Toefl%20speaking.pdf) [My speaking template]
+- [oefl-ibt-free-practice-test](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/toefl-ibt-free-practice-test.pdf) [Official]
+- [toefl-ibt-reading-practice-sets](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/toefl-ibt-reading-practice-sets.pdf) [Official]
+- [Listening YouTube Playlist](https://youtube.com/playlist?list=PLIi5X8tybGdDoPS_y5HCLFQlH6vP9JkKB&si=9jJVmXCJOcAMBj0W)
 ---
 
 ## ✍️ Application Documents
