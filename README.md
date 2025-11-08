@@ -105,15 +105,23 @@ Before everything, while you are doing your bachelor's, try to do some research 
 Now it is time to make some documents ready to apply centrally, and also to email the professor.
 ### Statement of Purpose (SOP)
 - It should be within 2 pages   
-- [📄 View My SOP Example](#my-sop-sample)
+- [📄 View My SOP Example](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/ALBANY_Statement%20of%20Background%20and%20Goals_Mahedi%20Kamal.pdf) [For UAlbany it was named as Statement of Background and Goals]
 
 ### Letters of Recommendation (LOR)
 - Try to take LOR from the Professor with whom you have worked and have at least 1 collaborative paper work    
-- [📄 LOR Example](#my-lor-sample)
+- [📄 LOR Example 1](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/LOR_Dr.%20M.%20Akhtaruzzaman%20to%20Mahedi%20Kamal.pdf)
+- [📄 LOR Example 2](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/LOR_Prof%20Md.%20Mahbubur%20Rahman%20to%20Mahedi%20Kamal.pdf)
 
 ### Resume/CV
 - Format and key points for PhD application
-- [📄 View My CV Example](#my-CV-sample)
+- [📄 View My CV Example](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/ALBANY_CV_Mahedi%20Kamal.pdf)
+
+### Transcript
+- Collect your transcript from university
+
+### Other documnents
+- Some university might require other documents. For UAlbany they reqiured Personal History.
+- [📄 View My Personal History Example](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/ALBANY_Personal%20History_Mahedi%20Kamal.pdf)
 
 #### Now that everything is ready, you should start the next two steps in parallel. First, select some universities and apply through their central application systems. Second, search for professors who are currently accepting students. You should email professors not only from the universities you’ve applied to but also from any other institutions where you find suitable research matches. If a professor shows interest in your profile and you haven’t yet applied to that university, you can then submit your application there.
 ---
