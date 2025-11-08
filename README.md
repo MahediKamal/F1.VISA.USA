@@ -81,7 +81,7 @@ Before everything, while you are doing your bachelor's, try to do some research 
 
 ### GRE
 - Though the GRE is not mandatory for most of the programs, it is always a plus to have. If you are going for an Engineering or related field, then the Quant section of the GRE will be very helpful. Try to keep the Quant score at least 160 if you are going to an engineering-related subject.
-- [GRE Documents on GitHub](https://github.com/MahediKamal/F1.VISA.USA/tree/main/GRE%20doc)
+- [GRE Documents on GitHub](https://github.com/MahediKamal/F1.VISA.USA/blob/e613a063ab576c5c8f6d6f2a12d0c43b70f64d05/GRE%20doc/01%20ETS%20-%20The%20Official%20Guide%20to%20the%20GRE%203rd%20Edt.pdf)
 
 ### TOEFL / IELTS
 - You must have these tests ready for applying to the university [Exception is not an example]. You should try to keep a minimum TOEFL score of 190 or a minimum IELTS score of 6.5. There are some other English tests, but it is recommended to take TOEFL or IELTS.
