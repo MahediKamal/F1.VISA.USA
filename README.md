@@ -20,7 +20,7 @@
    - [How to Write an Effective Email](#how-to-write-an-effective-email)
    - [Sample Emails I Sent](#sample-emails-i-sent)
    - [Common Mistakes](#common-mistakes)
-6. [Getting Admission Offers](#getting-admission-offers)
+6. [Getting Offers](#getting-admission-offers)
    - [RA / TA / Fellowship Funding](#ra--ta--fellowship-funding)
    - [How I Evaluated Offers](#how-i-evaluated-offers)
 7. [I-20 and Financial Documents](#i-20-and-financial-documents)
