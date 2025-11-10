@@ -75,6 +75,7 @@ Before everything, while you are doing your bachelor's, try to do some research 
 - [AWA (Argument Practice](https://minhaskamal.github.io/GRExercise/#/awa?type=argument) [Official question]
 - [Calculator](https://minhaskamal.github.io/GRExercise/#/calculator) [Practice this calculator because you will be given one like this in the exam]
 - [Vocab](https://minhaskamal.github.io/GRExercise/#/vocab)
+- For practice, use this side https://gre.kmf.com/
 
 ### TOEFL / IELTS
 - You must have these tests ready for applying to the university [Exception is not an example]. You should try to keep a minimum TOEFL score of 190 or a minimum IELTS score of 6.5. There are some other English tests, but it is recommended to take TOEFL or IELTS.
@@ -237,7 +238,7 @@ During my Visa interview, only my  I-20 and Passport were checked, but it is bet
 ### Buying Air Ticket
 - I installed Skyscanner app
 - From the app, you can see a view like this after clicking the date section, which helps you see on which date the ticket price is low on average
--   
+<img src="https://github.com/MahediKamal/F1.VISA.USA/blob/5aaca3ca5af553d6db885d174b8e459948fab6a8/Others/Skyscanner.jpg" alt="GRE Score" width="200">
 
 ### Booking First Accommodation
 - On-campus vs off-campus  
