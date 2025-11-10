@@ -263,7 +263,7 @@ During my Visa interview, only my  I-20 and Passport were checked, but it is bet
 
 ---
 
-<a name="Tips and Lessons Learned"></a>
+<a name="Tips-and-Lessons-Learned"></a>
 ## 💡 Tips and Lessons Learned
 Key advice for new applicants, mistakes to avoid, and mindset tips.
 
