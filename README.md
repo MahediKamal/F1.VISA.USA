@@ -205,7 +205,7 @@ You can also create your LinkedIn profile and be connected with many academic pe
 - Office ID
 - Salary Certificate
 
-During my Visa interview, only my  I-20 and Passport were checked, but it is better to keep all the documents with you
+#### During my Visa interview, only my  I-20 and Passport were checked, but it is better to keep all the documents with you
 ---
 
 <a name="Visa-Interview-Preparation"></a>
@@ -245,38 +245,38 @@ During my Visa interview, only my  I-20 and Passport were checked, but it is bet
 <img src="https://github.com/MahediKamal/F1.VISA.USA/blob/5aaca3ca5af553d6db885d174b8e459948fab6a8/Others/Skyscanner.jpg" alt="GRE Score" width="200">
 
 ### Booking First Accommodation
-- On-campus vs off-campus  
+- On-campus vs off-campus  [Comming Soon ...]
 
 ### Pre-Departure Checklist
 - Send your official documents [Transcript, Mark Sheet, Provisional Certificate, and Main Certificate, etc.]
 - If you haven't sent offcial GRE, TOEFL, then send it
 - Check vaccine requirements and get vaccinated. Don't forget to get the vaccination certificate [MMR, TDaP, Varivax, flu, Tb, Tetanus, etc.]
-- money.
-- Shopping checklist  
+- money [Comming Soon ...]
+- Shopping checklist  [Comming Soon ...]
 
 ---
 
 <a name="Arriving-in-the-USA"></a>
-## 🛬 Arriving in the USA
+## 🛬 Arriving in the USA [Comming Soon ...]
 
 ### Immigration at Port of Entry
-- My experience and tips  
+- My experience and tips [Comming Soon ...] 
 
 ### First Week in the USA
-- Orientation, SSN, bank account, etc.  
+- Orientation, SSN, bank account, etc.  [Comming Soon ...]
 
 
 ---
 
 <a name="Tips-and-Lessons-Learned"></a>
 ## 💡 Tips and Lessons Learned
-Key advice for new applicants, mistakes to avoid, and mindset tips.
+[Comming Soon ...]
 
 ---
 
 <a name="Acknowledgments"></a>
 ## 🙏 Acknowledgments
-Thank people, professors, or friends who guided you.
+Parents, Brother, Professors -- Thanks for your help and encouragements
 
 ---
 
