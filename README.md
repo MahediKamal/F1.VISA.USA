@@ -298,6 +298,6 @@ If you have questions, feel free to reach out:
 
 ---
 
-> *“Dream big. Prepare well. Stay confident.”* – Mahedi Kamal
+> *“And Allah is the best of planners : وَاللَّهُ خَيْرُ الْمَاكِرِينَ”* – Surah Aal Imran
 
 
