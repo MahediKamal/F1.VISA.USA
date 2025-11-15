@@ -116,8 +116,10 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 ### How I Shortlisted Universities
 - This data helped me analyze which universities align best with my profile; https://docs.google.com/spreadsheets/d/1RpWaU1AQjgTd1jzBYhw8lk-NNORSPaFC-lWdaS8VvvU/edit?gid=720774269#gid=720774269 
 - If you look at the posts in this group, you’ll get an idea of the profiles of students who are getting admission;  https://www.facebook.com/groups/nextop.usa
+- I use the CS rank website to understand the quality of the university- https://csrankings.org/
 - You might have a favorite state because a relative lives there, or you might choose a state based on its weather.
 - Now, as you have all the information, you can select which university you want to apply to.
+- After application, you can track this site to see if the university has started to publish admission results and what the accepted profiles are for that term - https://www.thegradcafe.com/survey/
 
 ### Comparing CS vs CE Admission Difficulty
 - Computer Science is usually harder to get into than Computer Engineering, even though both programs are rigorous and share many courses in the early years.  
