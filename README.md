@@ -254,7 +254,8 @@ And there is always one option, you go to the university website and see all the
 - Many airlines provide special offers for students. Check how to avail a discount as an international student.
 - Turkish Airlines offer- https://www.youtube.com/watch?v=nxHJBQIE50k
 - Emirates Airlines offer- https://www.youtube.com/watch?v=qW1rw2tSszw
-- Check what the baggage limit is for all the flights. eg; if your first flight allow 2 bag and 2nd flight allows 1 bag only, then it will be a problem. So, check before you buy a ticket.
+- Check what the baggage limit is for all the flights. eg, if your first flight allows 2 bags and 2nd flight allows 1 bag only, then it will be a problem. So, check before you buy a ticket.
+- Some airlines provide extra facilities if you have a long transit. eg, Free Istanbul by Turkish Airlines, Dubai Connect by Emirates.
 
 ### Booking First Accommodation
 - On-campus vs off-campus  [Coming Soon ...]
