@@ -91,8 +91,8 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 - When you apply from any US university portal, it will ask for give email addresses of 1-4 people who will give you a LOR. After you add their email address, an email will be sent to them with a link where they will be uploading a LOR for you.
 - Try to take LOR from the Professor with whom you have worked and have at least 1 collaborative paper work
 - You can also take LOR from your office team lead or any other senior.   
-- [📄 LOR Example 1](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/LOR_Dr.%20M.%20Akhtaruzzaman%20to%20Mahedi%20Kamal.pdf)
-- [📄 LOR Example 2](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/LOR_Prof%20Md.%20Mahbubur%20Rahman%20to%20Mahedi%20Kamal.pdf)
+- [📄 LOR Example 1](https://github.com/MahediKamal/F1.VISA.USA/blob/b8ebe830e72e83d9a81a00bb337436c8d0e4fe01/Application%20doc/LOR_Dr.%20M.%20Akhtaruzzaman%20to%20Mahedi%20Kamal.pdf)
+- [📄 LOR Example 2](https://github.com/MahediKamal/F1.VISA.USA/blob/b8ebe830e72e83d9a81a00bb337436c8d0e4fe01/Application%20doc/LOR_Prof%20Md.%20Mahbubur%20Rahman%20to%20Mahedi%20Kamal.pdf)
 
 ### Resume/CV
 - Format and key points for PhD application
