@@ -270,6 +270,9 @@ And there is always one option, you go to the university website and see all the
 ---
 
 <a name="Arriving-in-the-USA"></a>
+Take an appointment for SSN.
+Chase Bank account creation experience.
+
 ## 🛬 Arriving in the USA [Coming Soon ...]
 
 ### Immigration at Port of Entry
