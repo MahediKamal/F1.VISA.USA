@@ -276,9 +276,12 @@ Chase Bank account creation experience.
 ## 🛬 Arriving in the USA [Coming Soon ...]
 
 ### Immigration at Port of Entry
-- My experience and tips [Coming Soon ...] 
+- My experience: No question asked, just saw my passport and I-20
 
 ### First Week in the USA
+- download your I-94 - https://i94.cbp.dhs.gov/home
+- Report your living location to your university.
+- Submit a new student arriving form on your university website.
 - Orientation, SSN, bank account, etc.  [Coming Soon ...]
 
 
