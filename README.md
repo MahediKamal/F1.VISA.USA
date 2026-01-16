@@ -270,10 +270,7 @@ And there is always one option, you go to the university website and see all the
 ---
 
 <a name="Arriving-in-the-USA"></a>
-Take an appointment for SSN.
-Chase Bank account creation experience.
-
-## 🛬 Arriving in the USA [Coming Soon ...]
+## 🛬 Arriving in the USA
 
 ### Immigration at Port of Entry
 - My experience: No question asked, just saw my passport and I-20
@@ -282,7 +279,9 @@ Chase Bank account creation experience.
 - download your I-94 - https://i94.cbp.dhs.gov/home
 - Report your living location to your university.
 - Submit a new student arriving form on your university website.
-- Orientation, SSN, bank account, etc.  [Coming Soon ...]
+- Apply for an SSN if you got an RA, TA, or any work.
+- Open a bank account after getting an SSN account and get a credit card. [If you have an SSN]
+- University Orientation.
 
 
 ---
