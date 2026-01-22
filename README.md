@@ -280,8 +280,11 @@ And there is always one option, you go to the university website and see all the
 - Report your living location to your university.
 - Submit a new student arriving form on your university website.
 - Apply for an SSN if you got an RA, TA, or any work.
-- Open a bank account after getting an SSN account and get a credit card. [If you have an SSN]
+- Open a bank account.
+- If you have any on-campus job (RA, TA, etc), then after getting an SSN, talk with the university HR to link your bank account with your SSN.
+- If you have any on-campus job, get a credit card. [If you have an SSN]
 - University Orientation.
+- Register for your class
 
 
 ---
